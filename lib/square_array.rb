@@ -3,6 +3,7 @@ def square_array(array)
   pushed_array[]
   while array.length > n
     pushed_array << array[n] ** 2
+    n += 1
   end
   return pushed_array
 end
