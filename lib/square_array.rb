@@ -6,3 +6,6 @@ def square_array(array)
   end
   return pushed_array
 end
+
+sample = [1,2,3]
+square_array(sample)
